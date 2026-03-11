@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development projects and improving my JavaScript skills<br><br>👯 I’m looking to collaborate on Open Source projects, Web Development applications, and JavaScript/Node.js based projects<br><br>🤝 I’m looking for help with Advanced Backend Development and Scalable Applications<br><br>🌱 I’m currently learning Data Structures and Algorithms with Java and Backend Development using Node.js<br><br>💬 Ask me about HTML, CSS, JavaScript, and basic Web Development<br><br>⚡ Fun fact: Debugging code sometimes feels like solving a mystery 🕵️‍♂️.
+🔭 I’m currently working on Web Development projects and improving my JavaScript skills<br><br>👯 I’m looking to collaborate on Open Source projects, Web Development applications, and JavaScript/Node.js based projects<br><br>🤝 I’m looking for help with Advanced Backend Development and Scalable Applications<br><br>🌱 I’m currently learning Data Structures and Algorithms with Java and Backend Development using Node.js<br><br>💬 Ask me about HTML, CSS, JavaScript, and basic Web Development<br><br>📫How to reach me : LinkedIn Gmail<br><br>😄Pronouns:She/her<br><br>⚡ Fun fact: Debugging code sometimes feels like solving a mystery 🕵️‍♂️.
 
 
 ## 🌐 Socials:
@@ -12,11 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sakshi-2414&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-2414&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sakshi-2414&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakshi-2414&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
