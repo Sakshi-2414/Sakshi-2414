@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development projects and learning AI/ML <br><br>👯 I’m looking to collaborate on Open Source projects, Web Development applications, and JavaScript/Node.js based projects<br><br>🤝 I’m looking for help with Advanced Backend Development and Scalable Applications<br><br>🌱 I’m currently learning Data Structures and Algorithms with Java and Backend Development using Node.js<br><br>💬 Ask me about HTML, CSS, JavaScript, and basic Web Development<br><br>📫How to reach me : LinkedIn Gmail<br><br>😄Pronouns:She/her<br><br>⚡ Fun fact: Debugging code sometimes feels like solving a mystery 🕵️‍♂️.
+🔭 I’m currently working on Web Development projects and AI/ML projects <br><br>👯 I’m looking to collaborate on Open Source projects, Web Development applications, and Javascript based projects <br><br>🤝 I’m looking for help with Advanced Backend Development and Scalable Applications<br><br>🌱 I’m currently learning Machine learning and training models <br><br>💬 Ask me about HTML, CSS, JavaScript, and  Web Development<br><br>📫How to reach me : LinkedIn Gmail<br><br>😄Pronouns:She/her<br><br>⚡ Fun fact: Debugging code sometimes feels like solving a mystery 🕵️‍♂️.
 
 
 ## 🌐 Socials:
